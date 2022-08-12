@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Esther Ávila Benito</h1>
 <h3 align="center">I recently did a web development bootcamp. It has allowed me to improve my skills in several languages and frameworks such as Javascript, React and Angular. My goal is to expand my knowledge and grow as a web developer.</h3>
 
+You can reach me at: **esther.abenito@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/esther-avila-benito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esther-avila-benito" height="30" width="40" /></a>
