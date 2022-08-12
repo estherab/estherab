@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esther</h1>
-<h3 align="center">A passionate frontend developer from Madrid (Spain)</h3>
+<h3 align="center">I am currently working as a QA tester. I recently did a web development bootcamp. I am improving my programming skills in Javascript and React.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
