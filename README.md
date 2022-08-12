@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esther Ávila Benito</h1>
-<h3 align="center">I am currently working as a QA tester. I recently did a web development bootcamp. It has allowed me to improve my skills in several languages and frameworks such as Javascript, React and Angular.</h3>
+<h3 align="center">I recently did a web development bootcamp. It has allowed me to improve my skills in several languages and frameworks such as Javascript, React and Angular. My goal is to expand my knowledge and grow as a web developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
